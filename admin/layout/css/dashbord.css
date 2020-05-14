@@ -1,0 +1,25 @@
+.counter{
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+    margin: 5px 10px 5px 10px;
+}
+.students{
+    background-color: green;
+    color: #FFF;
+     font-weight: bolder;}
+.admins{
+    background-color: rgb(255, 138, 28);
+    color: #FFF;
+     font-weight: bolder;}
+.books_c{
+    background-color: rgb(16, 171, 161);
+    color: #FFF;
+    font-weight: bolder;}
+.late{
+    background-color: rgb(43, 58, 66);
+    color: #FFF;
+    font-weight: bolder;}
+    .row-counter{
+        margin-top: 30px;
+    }

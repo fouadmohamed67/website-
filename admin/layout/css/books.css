@@ -1,0 +1,56 @@
+.book
+{
+    border-bottom: 2px solid #007bff;
+    padding: 20px;
+    height: 300px;
+}
+.details{
+    max-height: 100px;
+    overflow: auto;
+}
+.year
+{
+      background-color: gray;
+      margin: 5px;
+      padding: 5px;
+      border-radius: 4px;
+      color: #FFF;
+       
+}
+.borrow
+{
+     
+    background-color: rgb(44, 46, 49);
+    margin: 5px;
+    padding: 5px;
+    border-radius: 4px;
+    color: #FFF;
+    width: 200px;
+
+}
+.auther
+{
+    padding: 5px;
+    margin: 5px;
+   background: slategrey;
+   border-radius: 4px;
+   color: #FFF;
+}
+.book form{
+    position: relative;
+    float: right;
+    margin-bottom: 20px;
+}
+.book form button{
+    margin-left: 2px;
+}
+.card_book{
+    background: #343a40!important;
+    color: #FFF;
+}
+.card_{
+    margin-top: 30px;
+}
+#error-name-book,#error-details-book,#error-auther-book,#error-date-book{
+    display: none;
+}

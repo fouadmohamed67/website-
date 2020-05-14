@@ -1,0 +1,19 @@
+.manage{
+    background-color: #343a40!important;
+    color: #FFF;
+}
+.card_tp{
+    margin-top: 30px;
+}
+.btn-send{
+    background-color:  #343a40;
+    color: #FFF;
+ }
+ .btn-send:hover{
+     background-color:  #4b5158;
+     color: #FFF;
+ 
+ }
+ #error_name_edit,#error_email_edit{
+     display: none;
+ }

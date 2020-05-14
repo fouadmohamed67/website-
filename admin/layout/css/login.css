@@ -1,0 +1,19 @@
+.card_login{
+    margin-top: 30px;
+}
+.card-header-login{
+    background: #343a40!important;
+    color: #FFF;
+}
+.btn-send{
+   background-color:  #343a40;
+   color: #FFF;
+}
+.btn-send:hover{
+    background-color:  #4b5158;
+    color: #FFF;
+
+}
+#error_password,#error_email{
+    display: none;
+}

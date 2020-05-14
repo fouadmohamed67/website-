@@ -1,0 +1,6 @@
+.register{
+    margin-top: 30px;
+}
+#error_name,#error_email,#error_confirm,#error_password{
+    display: none;
+}
